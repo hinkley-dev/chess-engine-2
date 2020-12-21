@@ -8,4 +8,4 @@ cd ..
 
 echo running...
 cd bin
-./chess
+./chessdbg
