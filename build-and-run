@@ -1,0 +1,11 @@
+#!/bin/bash
+
+echo building...
+
+cd src
+make
+cd ..
+
+echo running...
+cd bin
+./chess
